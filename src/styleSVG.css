@@ -1,0 +1,32 @@
+.svg-map__location__WEST {
+  fill: #ff8f00;
+}
+.svg-map__location__WEST:hover {
+  fill: #ff8f00;
+}
+
+.svg-map__location__SOUTH {
+  fill: #0000ff;
+}
+.svg-map__location__SOUTH:hover {
+  fill: #0000ff;
+}
+.svg-map__location__NORTHEAST {
+  fill: #ff0000;
+}
+.svg-map__location__NORTHEAST:hover {
+  fill: #ff0000;
+}
+
+.svg-map__location__MIDWEST {
+  fill: #00ff00;
+}
+.svg-map__location__MIDWEST:hover {
+  fill: #00ff00;
+}
+.svg-map__location__selected {
+  fill: #08e2b3;
+}
+.svg-map__location__selected:hover {
+  fill: #08e2b3;
+}
